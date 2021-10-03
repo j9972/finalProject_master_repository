@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Switch, Link } from "react-router-dom";
 import Login from "./pages/Home_js/Login";
 import Home from "./pages/Home";
 // temp feature 개발 진행 중 30%
+// temp feature 개발 진행 중 70%
 function App() {
   return (
     <div className="App">
